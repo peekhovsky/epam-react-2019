@@ -1,0 +1,11 @@
+.weather-param-list {
+    max-width: 450px;
+    min-width: 450px;
+}
+
+.weather-header {
+    background-color: rgb(67, 83, 112);
+    color: white;
+    max-width: 450px;
+    min-width: 450px;
+}

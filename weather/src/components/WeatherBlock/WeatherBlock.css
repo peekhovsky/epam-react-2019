@@ -1,0 +1,8 @@
+.weather-card {
+    max-width: 450px;
+    min-width: 450px;
+}
+
+.card-title {
+    font: 12pt Menlo
+}

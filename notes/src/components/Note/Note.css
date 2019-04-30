@@ -1,0 +1,26 @@
+.Note {
+  text-align: center;
+
+}
+.card {
+  margin: 5px 5px 2px 0px;
+  max-width: 295px;
+  min-width: 295px;
+}
+
+.card-body {
+  background-color: lemonchiffon;
+}
+
+.button-row {
+  margin: 7px 1px;
+}
+
+.button-row button {
+  width: 115px;
+}
+
+.textarea {
+
+  width: 100%
+}
