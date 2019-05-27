@@ -1,0 +1,74 @@
+.col-cert-types {
+    max-width: 140px;
+    margin: 0;
+}
+
+.row-cards {
+    margin-top: 10px;
+}
+
+.tag-badge {
+    margin-right: 8px;
+}
+
+.gift-cert-card {
+    min-width: 270px;
+}
+
+.list-group-page-num {
+    width: 100px;
+}
+
+.page-size-dropdown-button {
+    width: 100px;
+}
+
+.spinner-gift-cert {
+    height: 80px;
+    width: 80px;
+}
+
+.spinner-card {
+    text-align: center;
+}
+
+.price {
+    color: darkblue;
+    font-style: italic;
+}
+
+.textarea {
+    margin-top: 10px;
+    width: 100%
+}
+
+
+.tag-del-badge {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.button-x {
+    -webkit-user-select: none;
+    height: 18px;
+    width: 20px;
+    position: relative;
+    display: inline;
+}
+
+.tag-del-button {
+    position: relative;
+    display: inline;
+    height: 18px;
+    width: 20px;
+    margin-left: -12px;
+    margin-top: -2px;
+    font-size: 10pt;
+    opacity: 0;
+    z-index: 1;
+}
+
+.tag-edit-frag {
+    display: inline-block;
+}

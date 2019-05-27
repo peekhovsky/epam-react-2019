@@ -1,0 +1,30 @@
+.breadcrumb {
+    height: 40px;
+}
+
+.breadcrumbItem {
+    height: 20px;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.router {
+    min-width: 1000px;
+}
+
+.active {
+    color: aqua;
+}
+
+.user-type-text {
+    color: yellow;
+}
+
+.user-name {
+    color: white;
+    margin-right: 10px;
+    margin-left: 20px;
+    font-style: oblique;
+}
